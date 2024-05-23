@@ -85,6 +85,7 @@ A curated list of python programming language blogs
 #### O Companies
 
 #### P Companies
+- Programiz Blog https://programiz.pro/resources/search/?q=python
 - PyCon Blog http://pycon.blogspot.co.id/
 - Python Weekly http://www.pythonweekly.com/
 - Python Course EU http://www.python-course.eu/
