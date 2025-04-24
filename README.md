@@ -85,6 +85,7 @@ A curated list of python programming language blogs
 #### O Companies
 
 #### P Companies
+- Pulumi https://www.pulumi.com/blog/tag/python/
 - PyCon Blog http://pycon.blogspot.co.id/
 - Python Weekly http://www.pythonweekly.com/
 - Python Course EU http://www.python-course.eu/
